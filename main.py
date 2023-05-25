@@ -15,7 +15,7 @@ print(id(str(two)))
 print(id(bool(three)))
 b = 'replacement2'
 print(b)
-
+print()
 print(id(bool(4)))
 print(id(bool('Hello')))
 print('next exercise')

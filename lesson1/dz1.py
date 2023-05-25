@@ -35,4 +35,5 @@ print(z)
 
 
 string = "aaaaaBccBddBeeBffBggB"
-result = string5[::3]
+result = string[5::3]
+print(string)
